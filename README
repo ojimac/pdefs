@@ -1,0 +1,4 @@
+pdefsはpdefs( http://i.loveruby.net/svn/public/bin/trunk/rdefs.rb )のphp版を目指して作っています
+
+使い方
+> php pdefs.php [調べたい対象となるphpファイル]
