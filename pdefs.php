@@ -1,4 +1,4 @@
-#!/usr/bin/php
+#!/usr/bin/env php
 <?php
 function main($filename) {
 	$CLASS_RE = '/\A\s*(?:
